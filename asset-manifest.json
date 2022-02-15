@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trzadmin/static/css/main.cd74abb5.css",
+    "main.js": "/trzadmin/static/js/main.be9a2df2.js",
+    "index.html": "/trzadmin/index.html",
+    "main.cd74abb5.css.map": "/trzadmin/static/css/main.cd74abb5.css.map",
+    "main.be9a2df2.js.map": "/trzadmin/static/js/main.be9a2df2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd74abb5.css",
+    "static/js/main.be9a2df2.js"
+  ]
+}
